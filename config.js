@@ -1,14 +1,15 @@
 import * as firebase from "firebase";
 require("@firebase/firestore");
 
-  var firebaseConfig = {
-    apiKey: "AIzaSyDKuYqcZGaJOVJTl7wsVOG6EaTHNas-UOA",
-    authDomain: "cycle-app-39658.firebaseapp.com",
-    projectId: "cycle-app-39658",
-    storageBucket: "cycle-app-39658.appspot.com",
-    messagingSenderId: "432365679199",
-    appId: "1:432365679199:web:249b550bde861bf93621ea"
-  };
+  
+   const firebaseConfig = {
+  apiKey: "AIzaSyDQqD8pbISNodVomyZz0peMkYskotFFCas",
+  authDomain: "project---73-b6e4a.firebaseapp.com",
+  projectId: "project---73-b6e4a",
+  storageBucket: "project---73-b6e4a.appspot.com",
+  messagingSenderId: "416889461513",
+  appId: "1:416889461513:web:c0447b65f5cf82298fd1d8"
+};
  
   firebase.initializeApp(firebaseConfig);
 
