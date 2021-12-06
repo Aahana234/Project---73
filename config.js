@@ -1,5 +1,5 @@
 import * as firebase from "firebase";
-require("@firebase/firestore");
+
 
   
    const firebaseConfig = {
